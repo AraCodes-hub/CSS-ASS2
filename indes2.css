@@ -1,0 +1,66 @@
+h3{
+    color:rgb(82, 7, 53);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+body{
+    background-color: black;
+}
+.likes{
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: oblique;
+    padding: 50px;
+    margin: 100px;
+    border-radius: 50px ;
+    border: 50px 20px;
+}
+
+.my{
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: oblique;
+    padding: 50px;
+    margin: 100px;
+    border-radius: 50px;
+    border: 50px 20px;
+}
+
+#music{
+    color: rgb(42, 143, 231);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#food{
+    color: rgb(102, 57, 145);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#read{
+    color: rgb(10, 78, 10);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#dance{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fight{
+    color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#people{
+    color: peru;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#not{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
